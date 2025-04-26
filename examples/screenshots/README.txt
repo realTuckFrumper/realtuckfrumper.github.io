@@ -1,0 +1,1 @@
+This folder holds screenshots and visual references.
