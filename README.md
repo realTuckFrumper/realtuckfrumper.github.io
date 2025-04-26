@@ -1,2 +1,6 @@
-# realtuckfrumper.github.io
-Official GitHub Pages site for TUCK's tools and Bluesky verification.
+# TUCK Scripts Folder
+
+Here you’ll eventually find Python tools for:
+- Tweet deduplication
+- Engagement extraction from Fedica
+- Bluesky repost and like automation
